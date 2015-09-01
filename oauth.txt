@@ -1,0 +1,13 @@
+
+# Config
+scope=account,read,wikiread,modposts
+refreshable=True
+
+# Appinfo
+app_key=Fill this out
+app_secret=This too
+
+
+# Token
+token=None
+refresh_token=None
